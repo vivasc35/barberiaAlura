@@ -1,0 +1,48 @@
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px; /* este es el espaciamiento interno del primer bloque*/
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.tituloCentralizado{
+    text-align: center;
+}
+
+ul{
+    display: inline-block; /*aqui hace que la imagen quede al lado de la lista, ocupe solamente su espacio*/
+    vertical-align: top; /*se alinea con la parte superior de la imagen*/
+    width: 20%;
+    margin-right: 15%;
+}
+
+.items{
+    font-style: italic;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
